@@ -1,6 +1,6 @@
 # Local Service Finder
 
-<<<<<<< HEAD
+
 A Flutter mobile application that connects users with local service providers instantly.
 
 ## Features
